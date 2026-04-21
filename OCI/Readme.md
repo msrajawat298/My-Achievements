@@ -1,0 +1,2 @@
+- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4333488F20F57F659D097770A24211D718E01BE1340D6F8B85F542978F4E2700)
+- [Oracle Database@AWS Certified Architect Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=42B5BE44077B3461357E62CAA90686A629FE1F7FBA56B327A9F797CBBB5E178B)
